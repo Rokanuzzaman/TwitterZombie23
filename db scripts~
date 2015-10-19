@@ -1,0 +1,1 @@
+rails generate scaffold user_follow \user_id:integer foolwer_id:integer following_date:date
